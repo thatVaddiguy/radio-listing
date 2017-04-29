@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="radioStyle.xsl"?>
+<!DOCTYPE radioListing SYSTEM "radio.dtd">
+<radioListing>
+  <radioStation name="Radio2">
+    <radioShow>
+      <showTitle>Sounds of the 80s</showTitle>
+      <startTime>00:00</startTime>
+      <duration>2 hours</duration>
+      <description>Sara looks back at the 24 hour danceathon for Comic Relief</description>
+      <presenters>Sara</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Radio 2 Playlists</showTitle>
+      <showAltTitle>Radio 2's Folk Playlist</showAltTitle>
+      <startTime>02:03</startTime>
+      <duration>1 hour</duration>
+      <description>Mark Radcliffe's selection of folk,roots and acoustic music</description>
+      <presenters>Mark Radcliffe</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Radio 2 Playlists</showTitle>
+      <showAltTitle>Radio 2 Playlist: Morning Acoustic</showAltTitle>
+      <startTime>03:03</startTime>
+      <duration>1 hour</duration>
+      <description>New and older tracks both unplugged and acoustic, with OJ Borg</description>
+      <presenters>OJ Borg</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Radio 2 Playlists</showTitle>
+      <showAltTitle>Radio 2 Playlist: Wednesday Workout</showAltTitle>
+      <startTime>04:03</startTime>
+      <duration>1 hour</duration>
+      <description>OJ Borg dons his wristbands and legwarmers for another Wednesday Workout</description>
+      <presenters>OJ Borg</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Vanessa Feltz</showTitle>
+      <startTime>05:00</startTime>
+      <duration>1.5 hour</duration>
+      <description>Vanessa Feltz presents music,chat and a first look at the day's newspapers</description>
+      <presenters>Vanessa Feltz</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>The Chris Evans Breakfast Show</showTitle>
+      <startTime>06:30</startTime>
+      <duration>3 hours</duration>
+      <description>Chris Evans presents a fully interactive show for all the family</description>
+      <presenters>Chris Evans</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Ken Bruce</showTitle>
+      <showAltTitle>Stella Parton chooses the Tracks of My Years</showAltTitle>
+      <startTime>09:30</startTime>
+      <duration>2.5 hours</duration>
+      <description>Stella Parton chooses the Tracks of My Years , plus the PopMaster Music Quiz</description>
+      <presenters>Stella Parton</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Jeremy Vine</showTitle>
+      <startTime>12:00</startTime>
+      <duration>2 hour</duration>
+      <description>Jeremy Vine presents news,views and live guests</description>
+      <presenters>Jeremy Vine</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Steve Wright in the Afternoon </showTitle>
+      <showAltTitle>Professor Charles Spence, Shaun Williamson, Lee Mack and Griff Rhys Jones</showAltTitle>
+      <startTime>14:00</startTime>
+      <duration>3 hours</duration>
+      <description>Steve talks to Professor Charles Spence, Shaun Williamson, Lee Mack and Griff Rhys Jones </description>
+      <presenters>Steve Wright</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Simon Mayo Drivetime </showTitle>
+      <showAltTitle>John Bishop</showAltTitle>
+      <startTime>17:05</startTime>
+      <duration>2 hours</duration>
+      <description>John Bishop joins Simon to discuss the second series of 'in Conversation With' on 'W' </description>
+      <presenters>John Bishop</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>The Folk SHow with Mark Radcliffe </showTitle>
+      <showAltTitle>Folk Awards Preview</showAltTitle>
+      <startTime>19:00</startTime>
+      <duration>1 hour</duration>
+      <description>Mark looks ahead to next week's BBC Radoi 2 Folk Awards</description>
+      <presenters>Mark Radcliffe</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Jo Whiley </showTitle>
+      <showAltTitle>Vinyl Revival from Paul Simon</showAltTitle>
+      <startTime>20:00</startTime>
+      <duration>2 hours</duration>
+      <description>Jo has this week's Vinyl Revival; 'Graceland' and the new favourite thing from Gorillaz</description>
+      <presenters>Jo Whiley</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Fairport at 50</showTitle>
+      <startTime>22:00</startTime>
+      <duration>1 hour</duration>
+      <description>Fairport at 50 celebrates the histoy and legacy of Fairport Convention</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>David Attenborough and the Natural History of Folk</showTitle>
+      <startTime>23:00</startTime>
+      <duration>1 hour</duration>
+      <description>Nature broadcaster David Attenborough on his early TV work - producing folk music shows</description>
+      <presenters>David Attenborough</presenters>
+    </radioShow>
+  </radioStation>
+  <radioStation name="Radio3">
+    <radioShow>
+      <showTitle>Through the Night </showTitle>
+      <showAltTitle>Proms 2015: Danish National Symphony Orchestra</showAltTitle>
+      <startTime>00:30</startTime>
+      <duration>6 hours</duration>
+      <description>John Shea presents the Danish National Symphony Orchestra performing music by Nielsen</description>
+      <presenters>John Shea</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Breakfast </showTitle>
+      <showAltTitle>Wednesday - Petroc Trelawny</showAltTitle>
+      <startTime>06:30</startTime>
+      <duration>2.5 hours</duration>
+      <description>Petroc Trelawny presents Radio 3's classical breakfast show featuring listener requests</description>
+      <presenters>Petroc Trelawny</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Essential Classics</showTitle>
+      <showAltTitle>Wednesday - Rob Cowan with Ken Hom</showAltTitle>
+      <startTime>09:00</startTime>
+      <duration>3 hours</duration>
+      <description>With Artist of the Week: Nikolaj Znaider, featured performing Brahm's Violin Sonata No 1.</description>
+      <presenters>Rob Cowan</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Composer Of the Week </showTitle>
+      <showAltTitle>Sergei Rachmaninov(1873-1943)</showAltTitle>
+      <startTime>12:00</startTime>
+      <duration>1 hour</duration>
+      <description>3/5 Donald Macleod discusses Rachmaninov's epic and fiendishly difficult Third Piano Concerto</description>
+      <presenters>DOnald Macleod</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Radio 3 Lunchtime Concert </showTitle>
+      <showAltTitle>Machynlleth and Gower Festivals 2016</showAltTitle>
+      <startTime>13:00</startTime>
+      <duration>1 hour</duration>
+      <description>2/4 With Anna Stephany in French songs and the Schubert Ensemble in a piano quartet by Faure</description>
+      <presenters>Anna Stephany</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Afternoon on 3</showTitle>
+      <showAltTitle>Wednesday- BBC singers at the BBC Proms Dubai</showAltTitle>
+      <startTime>14:00</startTime>
+      <duration>1.5 hours</duration>
+      <description>BBC Singers in music by Stanford, Tippet, Dove, Warlock, Cowie, Grainger and Wikeley</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Choral Evensong</showTitle>
+      <showAltTitle>Choral Evening Prayer - Liverpool Metropolitan Cathedral</showAltTitle>
+      <startTime>15:30</startTime>
+      <duration>1 hour</duration>
+      <description>From Liverpool Metropolitan Cathedral</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>In Tune </showTitle>
+      <showAltTitle>Wednesday - Sean Rafferty</showAltTitle>
+      <startTime>16:30</startTime>
+      <duration>2 hours</duration>
+      <description>Sean Rafferty's guests include pianist Vadym Kholodenko</description>
+      <presenters>Sean Rafferty</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Composer Of the Week </showTitle>
+      <showAltTitle>Sergei Rachmaninov(1873-1943)</showAltTitle>
+      <startTime>18:30</startTime>
+      <duration>1 hour</duration>
+      <description>3/5 Donald Macleod discusses Rachmaninov's epic and fiendishly difficult Third Piano Concerto</description>
+      <presenters>Donald Macleod</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Radio 3 in Concert </showTitle>
+      <showAltTitle>Joshua Bell and Sam Haywood</showAltTitle>
+      <startTime>19:30</startTime>
+      <duration>2.5 hours</duration>
+      <description>Joshua Bell and Sam Haywood - Beethoven, Brahms, Kernis, Ysaye, Rachmaninov,Sarasate</description>
+      <presenters>Joshua Bell and Sam Haywood</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Free Thinking</showTitle>
+      <showAltTitle>Festival 2017, The never-ending Workday</showAltTitle>
+      <startTime>22:00</startTime>
+      <duration>0.75 hour</duration>
+      <description>8/16 Mathew Sweet introduces a discussion exploring the history of the workplace</description>
+      <presenters>Mathew Sweet</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>The Essay</showTitle>
+      <showAltTitle>Free Thinking 2017, England's First European</showAltTitle>
+      <startTime>22:45</startTime>
+      <duration>0.25 hour</duration>
+      <description>8/10 Exploring Fynes Moryson's An Itinerary, a European travel book form the early 17th century</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Late Junction</showTitle>
+      <showAltTitle>Late Junction Sessions - Danny L Harle and Pawel Siwczak</showAltTitle>
+      <startTime>23:00</startTime>
+      <duration>1 hour</duration>
+      <description>With a session form popproducer Danny L Harle and early keyboard specialist Pawel Siwczak</description>
+    </radioShow>
+  </radioStation>
+  <radioStation name="radio4">
+    <radioShow>
+      <showTitle>Midnight News </showTitle>
+      <startTime>00:00</startTime>
+      <duration>0.5 hour</duration>
+      <description>The latest national and international news from BBC radio 4</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Book of the Week </showTitle>
+      <showAltTitle>Be Like the Fox, Episode 2</showAltTitle>
+      <startTime>00:30</startTime>
+      <duration>0.5 hours</duration>
+      <description>2/5 Machiavelli observes Lorenzo de Medici's ascent to excessive power</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Shipping Forecast</showTitle>
+      <startTime>00:48</startTime>
+      <duration>0.5 hour</duration>
+      <description>The latest shipping forecast</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Selection of BBC World Service Programmes </showTitle>
+      <startTime>01:00</startTime>
+      <duration>4 hours</duration>
+      <description>BBC Radio 4 joins the BBC World Service</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Shipping Forecast </showTitle>
+      <startTime>05:20</startTime>
+      <duration>0.5hour</duration>
+      <description>The latest shipping forecast</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>News Briefing </showTitle>
+      <startTime>05:30</startTime>
+      <duration>0.5 hour</duration>
+      <description>News from BBC Radio 4</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Prayer for the Day </showTitle>
+      <startTime>05:43</startTime>
+      <duration>0.5 hours</duration>
+      <description>A spiritual comment and prayer to begin the day with the Rev Prebendary Edward Mason</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Farming Today</showTitle>
+      <showAltTitle>Lord Plumb on Article 50</showAltTitle>
+      <startTime>05:45</startTime>
+      <duration>0.5 hours</duration>
+      <description>The latest news about food, farming and the countryside</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Tweet of the Day</showTitle>
+      <showAltTitle>Northern Wheatear</showAltTitle>
+      <startTime>05:58</startTime>
+      <duration>0.5 hours</duration>
+      <description>Micheal Strachan presents the story and sound of the Northern Wheatear</description>
+      <presenters>Micheal Strachan</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Today </showTitle>
+      <startTime>06:00</startTime>
+      <duration>3 hours</duration>
+      <description>Including Yesterday in Parliment, Sports Desk, Weather and Thought for the Day</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Midweek </showTitle>
+      <showAltTitle>Harriet Walter, Richard Curtis, Suzi Quatro, Declan Murphy</showAltTitle>
+      <startTime>09:00</startTime>
+      <duration>0.75 hours</duration>
+      <description>Harriet Walter, Richard Curtis and Suzi Quatro join Libby Purves for the final Midweek</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Book of the Week </showTitle>
+      <showAltTitle>Be like the Fox, Episode 3</showAltTitle>
+      <startTime>09:45</startTime>
+      <duration>0.15 hours</duration>
+      <description>3/5 Machiavelli watches the rise of the charismatic monk Savonarola</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Woman's Hour </showTitle>
+      <showAltTitle>How do you deal with a fussy eater</showAltTitle>
+      <startTime>10:00</startTime>
+      <duration>0.75 hours</duration>
+      <description>Fussy eaters, women and the Brexit negotiations, Nicola Yoon and Single Parent Stories</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>15 Minute Drama </showTitle>
+      <showAltTitle>Revelation, Episode 8</showAltTitle>
+      <startTime>10:45</startTime>
+      <duration>0.15 hours</duration>
+      <description>8/10 Shardlake demands answers from the Dean of Westminster</description>
+      <presenters>Shardlake</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Salam to Queen and Country </showTitle>
+      <startTime>11:00</startTime>
+      <duration>0.30 hours</duration>
+      <description>Zubeida Malik speaks to Muslim soldiers in the British Army</description>
+      <presenters>Zubeida Malik</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Simon Evans Goes to Market </showTitle>
+      <showAltTitle>Series 2, Coffee</showAltTitle>
+      <startTime>11:30</startTime>
+      <duration>0.5 hours</duration>
+      <description>3/4 Simon Evans presents a comedy lecture on the economics behind coffee</description>
+      <presenters>Simon Evans</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>50 things that made the modern economy</showTitle>
+      <showAltTitle>Series 1, Light Bulb</showAltTitle>
+      <startTime>12:00</startTime>
+      <duration>1 hour</duration>
+      <description>Once too precious to use, light is now too cheap to notice</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>World at One </showTitle>
+      <startTime>13:00</startTime>
+      <duration>0.75 hours</duration>
+      <description>Analysis of news and current affairs</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>The Uncommon Series </showTitle>
+      <showAltTitle>Series 1, How to Stand up</showAltTitle>
+      <startTime>13:45</startTime>
+      <duration>1.5 hours</duration>
+      <description>Barry Smith explores the three senses which enable us to stand up</description>
+      <presenters>Barry Smith</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Money Box </showTitle>
+      <showAltTitle>Money Box Live: The Cost of Buying a Car</showAltTitle>
+      <startTime>15:00</startTime>
+      <duration>0.5 hours</duration>
+      <description>Financial phone-in</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>A Casual Clearance</showTitle>
+      <startTime>15:30</startTime>
+      <duration>0.5 hours</duration>
+      <description>Clare Jenkins explores the emotional chanllenges faced when clearing out her parent's home</description>
+      <presenters>Clare Jenkins</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Thinking Allowed</showTitle>
+      <startTime>16:00</startTime>
+      <duration>0.5 hours</duration>
+      <description>Sociological discussion programme, present by Laurie Taylor</description>
+      <presenters>Laurie Taylor</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>The Media Show</showTitle>
+      <startTime>16:30</startTime>
+      <duration>0.5 hours</duration>
+      <description>Topical programme about the fast changing media world</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>PM </showTitle>
+      <startTime>17:00</startTime>
+      <duration>1 hour</duration>
+      <description>Eddie Mair with interviews, context and analysis</description>
+      <presenters>Eddie Mair</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Six O'Clock News</showTitle>
+      <startTime>18:00</startTime>
+      <duration>0.5 hours</duration>
+      <description>National and international news from BBC Radio 4</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Can't tell Nathan Caton Nothing</showTitle>
+      <showAltTitle>Series 3, About Intelligence</showAltTitle>
+      <startTime>18:30</startTime>
+      <duration>0.5 hours</duration>
+      <description>1/4 Nathan is fed up with his family underestimating his intelligence</description>
+      <presenters>Nathan Caton</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>The Archers</showTitle>
+      <startTime>19:00</startTime>
+      <duration>1 hour</duration>
+      <description>Lynda has to explain herself</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Moral Maze</showTitle>
+      <startTime>20:00</startTime>
+      <duration>1 hour</duration>
+      <description>Combative, provocative and engaging debate chaired by Michael Buerk</description>
+      <presenters>Michael Buerk</presenters>
+    </radioShow>
+    <radioShow>
+      <showTitle>Costing the Earth </showTitle>
+      <showAltTitle>Unfrozen North</showAltTitle>
+      <startTime>21:00</startTime>
+      <duration>1 hour</duration>
+      <description>What happens in the world's most northerly town when the permafrost defrosts</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>The World Tonight</showTitle>
+      <startTime>22:00</startTime>
+      <duration>0.75 hour</duration>
+      <description>In-depth reporting and analysis from a global perspective</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Book at Bedtime</showTitle>
+      <showAltTitle>Behind Her Eyes, Episode 8</showAltTitle>
+      <startTime>22:45</startTime>
+      <duration>0.25 hour</duration>
+      <description>8/10 Thanks to Adele, Louise can contril her night terrors, but that is only the beginning</description>
+    </radioShow>
+    <radioShow>
+      <showTitle>Spotlight Tonight With Nish Kumar </showTitle>
+      <showAltTitle>Series 1</showAltTitle>
+      <startTime>23:00</startTime>
+      <duration>1 hour</duration>
+      <description>Late-night topical comedy, hosted by award-winning satirist Nish Kumar </description>
+      <presenters>Nish Kumar</presenters>
+    </radioShow>
+  </radioStation>
+</radioListing>

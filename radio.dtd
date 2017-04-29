@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT radioListing (radioStation+)>
+<!ELEMENT radioStation (radioShow+)>
+<!ELEMENT radioShow (showTitle,showAltTitle*,startTime,duration,description)>
+<!ELEMENT showTitle (#PCDATA)>
+<!ELEMENT showAltTitle (#PCDATA)>
+<!ELEMENT startTime (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST radioStation name CDATA #REQUIRED>
